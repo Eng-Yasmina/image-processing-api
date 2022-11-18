@@ -11,5 +11,5 @@ http://localhost:1990/api/photos
 # filenames:
 - yasmine
 - yasmine2
-Example:
+# Example:
 http://localhost:1990/api/photos?filename=yasmine&width=300&height=300
