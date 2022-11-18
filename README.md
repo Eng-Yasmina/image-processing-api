@@ -8,7 +8,7 @@
 The server will listen on port 1990
 Endpoint to resize :
 http://localhost:1990/api/photos
-filenames:
+# filenames:
 - yasmine
 - yasmine2
 Example:
