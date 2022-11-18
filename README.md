@@ -6,7 +6,7 @@
 - Start server: npm start
 # Instructions
 The server will listen on port 1990
-Endpoint to resize :
+- Endpoint to resize :
 http://localhost:1990/api/photos
 # filenames:
 - yasmine
