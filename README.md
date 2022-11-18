@@ -4,7 +4,7 @@
 - Compile: npm run compile
 - Run unit tests: npm run test
 - Start server: npm start
-#Instructions
+# Instructions
 The server will listen on port 1990
 Endpoint to resize :
 http://localhost:1990/api/photos
